@@ -1,5 +1,7 @@
 # Hierapolis
 
+code being used for 4 code sharing variations of the user portal for 4 distinct user groups in ecocity.com
+
 This is yet an other private admin template which base on Twitter Bootstrap 3 with Sass and Compass.
 
 **Hierapolis** Hierapolis (Greek: Ἱεράπολις 'sacred city') was an ancient Greco-Roman city in Phrygia located on hot springs in southwest Anatolia. Its ruins are adjacent to modern Pamukkale, Turkey.
